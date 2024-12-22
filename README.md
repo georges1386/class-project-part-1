@@ -1,6 +1,5 @@
 # Class Project Part 1
 ## A website which talks about my passion
-=================
 I love reading books, that is why this website talks about them
 Here are the website requirements
 1. Have at least 3 pages
