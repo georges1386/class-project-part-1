@@ -1,6 +1,5 @@
 # Class Project Part 1
 ## A website which talks about my passion
-<<<<<<< HEAD
 ### New update comes
 > [!NOTE]
 > You will update your website by inserting some CSS file which will make the website beautiful
@@ -11,9 +10,6 @@
 
 > [!WARNING]
 > Make sure that any third party isn't involved in this
-
-=======
->>>>>>> b53e1d230f0b8126f2104da73776fa353b7a03fb
 I love reading books, that is why this website talks about them
 Here are the website requirements
 1. Have at least 3 pages
