@@ -21,8 +21,8 @@ Here are the website requirements
 6. Pack everything into a zip folder
 7. Send it to the teacher before timeout
 8. Smile, it's not finished :smile:
-> Teacher : What did you learn ?
-> Me : Editing a README.md file is one of the most amazing thing in the world !
-> Classmates : :flushed:
-> Teacher : :rage:
-> Me : :running:
+> Teacher : What did you learn ?  
+> Me : Editing a README.md file is one of the most amazing thing in the world !  
+> Classmates : :flushed:  
+> Teacher : :rage:  
+> Me : :running:  
