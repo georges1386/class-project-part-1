@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+nav {
+    align-self: flex-end;
+}
+
+a {
+    position: relative;
+    color: pink;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a::before {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    width: 0%;
+    height: 2px;
+    background-color: pink;
+    transition-duration: 300ms;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+a:hover::before {
+    width: 100%;
+}
+
+hr {
+    border: 1px solid skyblue;
+}
+
+.element {
+    background-color: skyblue;
+    padding: 10px;
+    margin: 0 10px;
+    border-radius: 10px;
+}
+
+.auteur {
+    font-weight: bold;
+}
+
+.description {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+    padding: 10px;
+    margin: 0 10px;
+    border-radius: 10px;
+    background-color: #11111108;
+}
