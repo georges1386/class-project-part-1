@@ -4,6 +4,8 @@
 > [!NOTE]
 > You will update your website by inserting some CSS file which will make the website beautiful
 > You will use colors, item positionning
+> Now, you will have to add a form which user can use to give impressions about your website
+> And use PHP for form processing
 
 > [!IMPORTANT]
 > Your website must reflect your image.
