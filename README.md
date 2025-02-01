@@ -3,8 +3,11 @@
 ### New update comes
 > [!NOTE]
 > You will update your website by inserting some CSS file which will make the website beautiful
+> 
 > You will use colors, item positionning
+> 
 > Now, you will have to add a form which user can use to give impressions about your website
+> 
 > And use PHP for form processing
 
 > [!IMPORTANT]
@@ -12,7 +15,9 @@
 
 > [!WARNING]
 > Make sure that any third party isn't involved in this
+
 I love reading books, that is why this website talks about them
+
 Here are the website requirements
 1. Have at least 3 pages
 2. Includes pictures
