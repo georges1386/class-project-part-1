@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire</title>
+    <link rel="stylesheet" href="formulaire.css">
+</head>
+<body>
+    <form action="traitement.php" method="post">
+        <h1>Veuillez remplir ce formulaire</h1>
+        <fieldset>
+            <legend>Est ce que le site est joli ?</legend>
+            <label for="oui_joli">
+                <input type="radio" name="joli" value="oui_joli" id="oui_joli"> Oui il est joli
+            </label>
+            <label for="non_joli">
+                <input type="radio" name="joli" value="non_joli" id="non_joli"> Non, il n'est pas joli
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>Est ce que vous aimez ma passion ?</legend>
+            <label for="oui_passion">
+                <input type="radio" name="passion" value="oui_passion" id="oui_passion"> Oui, j'aime ta passion
+            </label>
+            <label for="non_passion">
+                <input type="radio" name="passion" value="non_passion" id="non_passion"> Non, je n'aime pas ta passion
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>Qu'est ce que je pourrais améliorer sur le site ?</legend>
+            <textarea name="commentaire" id="commentaire"></textarea>
+        </fieldset>
+        <input type="submit" value="Envoyer le formulaire">
+    </form>
+</body>
+</html>

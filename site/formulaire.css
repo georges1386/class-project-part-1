@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+fieldset {
+    margin: 10px 0;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+}
+
+input[type="submit"] {
+    font-size: large;
+    background-color: aqua;
+    border: 0;
+    padding: 10px;
+    transition-duration: 300ms;
+}
+
+input[type="submit"]:hover {
+    background-color: aquamarine;
+}
+
+textarea {
+    min-height: 100px;
+    max-height: 100px;
+    min-width: 300px;
+    max-width: 300px;
+}
+
+div.resultats p {
+    margin: 10px 10px;
+}
